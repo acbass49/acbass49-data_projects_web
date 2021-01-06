@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1609811199086.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2511872946",
+    "id" : "E0AD20C6",
+    "lastKnownWriteTime" : 1609826569,
+    "last_content_update" : 1609826569027,
+    "path" : "~/rProjects/Blogdown/personalSite/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "74,18",
+        "scrollLine" : "56"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
