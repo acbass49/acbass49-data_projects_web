@@ -31,8 +31,9 @@ pygmentsUseClasses = true
     enableTwitterShare = false
     enableFacebookShare = false
     enableLinkedInShare = false
-
-
+    
+    thumbnail = "images/favicon2.png"
+    
     # Custom CSS
     custom_css = []
 
