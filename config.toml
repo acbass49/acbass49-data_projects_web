@@ -19,7 +19,7 @@ pygmentsUseClasses = true
     info = "RESEARCH ANALYST"
     avatarurl = "images/alex.jpeg"
     fixedbarContent = "I know you want to..."
-    fixedbarContentAfter = "Say hi! I'd love to hear from you"
+    fixedbarContentAfter = "Hi! View my latest post under the BLOG tab"
 
     hideCredits = false
     hideCopyright = true
