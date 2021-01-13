@@ -42,6 +42,8 @@ pygmentsUseClasses = true
 
     # RTL support
     rtl = false
+    
+    enableEmoji = true
 
 
 [[params.social]]
@@ -73,6 +75,11 @@ pygmentsUseClasses = true
     url  = "post"
     
 [[menu.main]]
+    name = "CV"
+    weight = 3
+    url  = "files/cv.pdf"
+    
+[[menu.main]]
     name = "Contact Me"
-    weight = 2
+    weight = 4
     url  = "contact"
