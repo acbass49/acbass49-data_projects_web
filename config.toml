@@ -18,7 +18,7 @@ pygmentsUseClasses = true
     keywords = "data,programming,visualization"
     info = "RESEARCH ANALYST"
     avatarurl = "images/alex.jpeg"
-    footercontent = "Hello there! View my latest post under the BLOG tab"
+    footercontent = "Hello there! View my latest posts under the BLOG tab"
 
     hideCredits = true
     hideCopyright = true
