@@ -79,7 +79,7 @@ I created a below table describing the average difference between each group's r
 
 ![](/./about_files/dev_table.png#center)
 
-As you can see, Republicans and Latter-days Saints are a lot closer together than Democrats and Latter-day Saints on average. In fact, on average Latter-day Saints and Democrats are almost as far apart as Republicans and Democrats. 
+As you can see, Republicans and Latter-days Saints are a lot closer together than Democrats and Latter-day Saints on average policy agreement levels. In fact, on average Latter-day Saints and Democrats are almost as far apart as Republicans and Democrats. 
 
 Let's dive more into what these numbers mean. Among the policy questions that were asked, for example, "Should we raise taxes on families making over $600,000?" If 40% of Republicans agreed with this statement, Latter-day Saints agreeing would on average fall 6 points apart of 40%, so perhaps Latter-day Saints would report 46% agreeing.  And Democrats would fall at 26 points away on average, so perhaps 66% of Democrats agree. This just shows that policy-wise Latter-day Saints were significantly closer to Republicans than Democrats on average. The actual numbers for this question are 76% of Democrats, 51% of Republicans, and 49% of Latter-days Saints agree.
 
@@ -89,13 +89,13 @@ But enough on this.
 
 ---------------------
 
-##### What Issues Exactly Do Latter-day Saint Lean the Furthest Right?
+##### What Issues Exactly Do Latter-day Saints Lean the Furthest Right?
 
 Another reason Latter-day Saints stick around is shown in the next figure. Below are the **issues where Latter-day Saints leaned the furthest RIGHT** by percentage point. These could represent the conservative positions Latter-day Saints cling to most strongly.
 
 ![](/./about_files/strict.png#center){width=100% height=350px}
 
-Latter-day Saints also stick around because some church teachings are also aligned with conservative policy positions.
+I belieive Latter-day Saints stick around because some church teachings are closely aligned with conservative policy positions.
 
 For example,  it is a commandment for Latter-day Saints not to use marijuana recreationally. The Latter-day Saint prophet has also taught abortion to be wrong except in special cases (rape, incest, and mother's life). Some teachings - like these - are directly aligned with conservative positions on social freedoms. 
 
