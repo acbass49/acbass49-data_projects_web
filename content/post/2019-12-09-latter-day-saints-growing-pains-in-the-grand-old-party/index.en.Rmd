@@ -12,7 +12,7 @@ tags:
 description: ''
 thumbnail: images/favicon2.png
 ---
-![](/./about_files/iu-3.jpeg#center){width=474px height=321px}
+![](/./about_files/iu-3.jpeg#center)
 
 ##### Introduction
 
@@ -93,7 +93,7 @@ But enough on this.
 
 Another reason Latter-day Saints stick around is shown in the next figure. Below are the **issues where Latter-day Saints leaned the furthest RIGHT** by percentage point. These could represent the conservative positions Latter-day Saints cling to most strongly.
 
-![](/./about_files/strict.png#center){width=100% height=350px}
+![](/./about_files/strict.png#center)
 
 I belieive Latter-day Saints stick around because some church teachings are closely aligned with conservative policy positions.
 
