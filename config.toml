@@ -12,8 +12,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
-disqusShortname = "yourdiscussshortname"
-
 [params]
     author = "ALEX BASS"
     description = "Alex Bass' personal website"
@@ -22,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     avatarurl = "images/alex.jpeg"
     footercontent = "Say hi! I'd love to hear from you"
     fixedbarContent = "I know you want to..."
-    fixedbarContentAfter = "Please share my website→"
+    fixedbarContentAfter = "Please share my website:)"
 
     hideCredits = false
     hideCopyright = true
@@ -31,9 +29,9 @@ disqusShortname = "yourdiscussshortname"
     snsShare = true
     # Popular sns share
     # if you want add sns. please message!
-    enableTwitterShare = true
-    enableFacebookShare = true
-    enableLinkedInShare = true
+    enableTwitterShare = false
+    enableFacebookShare = false
+    enableLinkedInShare = false
 
 
     # Custom CSS
@@ -72,7 +70,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Blog"
     weight = 2
-    url  = "posts"
+    url  = "post"
     
 [[menu.main]]
     name = "Contact Me"
