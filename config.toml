@@ -18,10 +18,9 @@ pygmentsUseClasses = true
     keywords = "data,programming,visualization"
     info = "RESEARCH ANALYST"
     avatarurl = "images/alex.jpeg"
-    fixedbarContent = "I know you want to..."
-    fixedbarContentAfter = "Hi! View my latest post under the BLOG tab"
+    footercontent = "Hello there! View my latest post under the BLOG tab"
 
-    hideCredits = false
+    hideCredits = true
     hideCopyright = true
 
     # Bottom sns share

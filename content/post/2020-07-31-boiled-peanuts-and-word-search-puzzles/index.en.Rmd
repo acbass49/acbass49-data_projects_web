@@ -9,7 +9,7 @@ tags:
   - R
   - Wordsearch
 description: 'Wordsearch Puzzle Generator'
-thumbnail: "images/alex.jpg"
+thumbnail: "images/favicon2.png"
 ---
 ![](/./about_files/peanuts.jpg#center){width=100% height=600px}
 
