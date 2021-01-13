@@ -18,9 +18,8 @@ pygmentsUseClasses = true
     keywords = "data,programming,visualization"
     info = "RESEARCH ANALYST"
     avatarurl = "images/alex.jpeg"
-    footercontent = "Say hi! I'd love to hear from you"
     fixedbarContent = "I know you want to..."
-    fixedbarContentAfter = "Please share my website:)"
+    fixedbarContentAfter = "Say hi! I'd love to hear from you"
 
     hideCredits = false
     hideCopyright = true

@@ -6,8 +6,8 @@ slug: []
 categories: []
 tags:
   - Progamming
-  - Statistics
   - R
+  - Wordsearch
 description: ''
 thumbnail: <no value>
 ---
@@ -17,8 +17,6 @@ While we were enjoying the boiled peanuts and talking about the menu, Micah was 
 
 I built the web app below. Try it out! Put in a few words and make one for yourself!
 
-<iframe src="https://acbass49.shinyapps.io/mobility_trends/" style="border: none; width: 770px; height: 700px"></iframe>
+<iframe src="https://acbass49.shinyapps.io/crossword_puzzle/" width: 100%; height: 500px;">
 
-The code I used to generate this puzzle is found [here](https://github.com/acbass49/wordsearch). I will probably write-up a post later detailing the steps I took to program this. Honestly, it was a lot of fun for me.
 
-If you enjoyed the post, shoot me a message on social media or share it.
