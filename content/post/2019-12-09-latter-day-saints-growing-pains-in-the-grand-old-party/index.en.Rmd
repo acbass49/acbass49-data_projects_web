@@ -63,6 +63,12 @@ which suggests some distaste for Trump.
 
 Latter-day Saints also noticeably lean left on immigration issues. As it turns out, our immigration finding is nothing new. [Others](https://www.amazon.com/Seeking-Promised-Land-American-Cambridge/dp/1107662672) have noted this and especially among Latter-day Saints who served foreign church service missions (usually 1.5-2 years in duration). But, to me, the main takeaway from this figure is **Latter-day Saints reveal at least one way why they are hesitant toward Trump: his stance on immigration**. 
 
+We also may see distaste for Trump compared to Republicans in this impeachment question.
+
+![](/./about_files/impeach_trump.png#center)
+
+Only 1 in 4 Latter-day Saints agreed with this compared to almost 3 in 4 Democrats. However, even though Latter-day Saints are much closer to Republicans than Democrats on impeaching Trump, Latter-day Saints actually are almost twice as far from Republicans on this issue as they are on average. In that, we see more evidence of some Latter-day Saint hesitancy toward Trump.
+
 -----------------------
 
 ##### So Why Do Latter-day Saints Stick Around With The GOP?
@@ -78,10 +84,6 @@ As you can see, Republicans and Latter-days Saints are a lot closer together tha
 Let's dive more into what these numbers mean. Among the policy questions that were asked, for example, "Should we raise taxes on families making over $600,000?" If 40% of Republicans agreed with this statement, Latter-day Saints agreeing would on average fall 6 points apart of 40%, so perhaps Latter-day Saints would report 46% agreeing.  And Democrats would fall at 26 points away on average, so perhaps 66% of Democrats agree. This just shows that policy-wise Latter-day Saints were significantly closer to Republicans than Democrats on average. The actual numbers for this question are 76% of Democrats, 51% of Republicans, and 49% of Latter-days Saints agree.
 
 On most all other issues - healthcare, size of government, family values - Latter-day Saints are closely aligned to the Republican Party.
-
-![](/./about_files/impeach_trump.png#center)
-
-Even when asking about impeaching Trump, only 1 in 4 Latter-day Saints agreed with this compared to almost 3 in 4 Democrats. However, even though Latter-day Saints are much closer to Republicans than Democrats on impeaching Trump, Latter-day Saints actually are almost twice as far from Republicans on this issue as they are on average. In that, we see more evidence of some Latter-day Saint hesitancy toward Trump.
 
 But enough on this. 
 
@@ -99,16 +101,16 @@ However unlikely, I think it is possible that this tradition changes. I could po
 
 Thanks for reading! Would love to hear your thoughts about my work. Also, please feel free to share with others if you found it interesting 😀
 
-Also, thanks to these authors and their work...
-I got the idea from @RyanBurge [here](https://twitter.com/ryanburge/status/1322608023186100224?s=21)
-Democracy Fund + UCLA for the surveys and making them [public](https://www.voterstudygroup.org)
-@CL_Rothschild for the [dumbbell charts](https://towardsdatascience.com/create-dumbbell-plots-to-visualize-group-differences-in-r-3536b7d0a19a)
-@hrbrmstr for the [dumbbell charts](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
-@littlemissdata [for the table](https://www.littlemissdata.com/blog/prettytables) in the appendix
-
 -----------------------------
 
 ##### Appendix
 
 My table I referenced in the article is [here](https://rpubs.com/acbass49/701304). 
 My code is viewable [here](https://github.com/acbass49/Nationscape).
+
+Also, thanks to these authors and their work...
+I got the idea from @RyanBurge [here](https://twitter.com/ryanburge/status/1322608023186100224?s=21)
+Democracy Fund + UCLA for the surveys and making them [public](https://www.voterstudygroup.org)
+@CL_Rothschild for the [dumbbell charts](https://towardsdatascience.com/create-dumbbell-plots-to-visualize-group-differences-in-r-3536b7d0a19a)
+@hrbrmstr for the [dumbbell charts](https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/)
+@littlemissdata [for the table](https://www.littlemissdata.com/blog/prettytables) in the appendix
