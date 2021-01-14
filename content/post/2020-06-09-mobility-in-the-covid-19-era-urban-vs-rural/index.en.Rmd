@@ -11,7 +11,7 @@ tags:
 description: ''
 thumbnail: images/favicon2.png
 ---
-![](/./about_files/iu-2.jpeg#center){width=100% height=300px}
+![](/./about_files/iu-2.jpeg#center){width=100%}
 
 ##### Introduction
 In this unprecedented time, America and the world have experienced drastic changes in many aspects of modern day life. In an effort to "flatten the curve" of the coronavirus, American leaders urged for precautionary measures such as closing non-essential businesses, stay-at-home orders, and general social distancing protocol across the country. 
@@ -33,7 +33,7 @@ For this first question, I created a figure to show the data. I looked at genera
 
 (Technical note: all of the points on the graph do not start at 100 because the baseline is the sum of navigation requests for each area on January 23rd. Whereas, each point represents the weekly mean. So, lines with points starting higher than 100 on average had higher mobility requests after the first day.)
 
-![](/./about_files/50_states.png#center){width=100% height=400px}
+![](/./about_files/50_states.png#center)
 
 The data shows a slight increase near the end of February into March followed by a drastic decrease as shutdown for COVID-19 starts. It is clear that from mid-march to mid-April mobility trends in the US dipped drastically, but now many states' mobility are returning back to normal. 
 
@@ -46,13 +46,13 @@ Note the overall variance of US states during February compared to the overall v
 To answer this question, I created two figures: one to show different states and counties returning to normal, and the other to look specifically at urban, suburban, and rural counties.
 The map below shows an interactive heat map across time. This is great at showing mobility trends across various states (and counties). It also shows the drastic decrease in mobility beginning mid-March, and the return to normal.
 
-<iframe src="https://acbass49.shinyapps.io/mobility_trends/" style="border: none; width: 770px; height: 700px"></iframe>
+<iframe src="https://acbass49.shinyapps.io/mobility_trends/" style="border: none; width: 100%; height: 800px"></iframe>
 
 The "white" color signifies average mobility while red shows higher mobility, and blue shows lower. Viewing the map over time, it seems to show states and counties with higher population dipping lower in mobility during the largest period of the COVID-19 shutdown, and also lagging behind others in returning to normal mobility at the end of May. While we may have a general idea which counties are truly urban, suburban, and rural, it can be hard to tell  from the map.
 
 For the last figure, I thought it would be more appropriate to look at county-level data as it is a smaller grouping geographically that can be more clearly defined as either urban, suburban, or rural. I incorporated the data from the NCHS to code various counties according to their individual level of urbanization, and then, I grouped the counties by rural, suburban, and urban.
 
-![](/./about_files/Urban_Rural.png#center){width=100% height=400px}
+![](/./about_files/Urban_Rural.png#center)
 
 Looking at these trends over time, it is what you might expect: rural counties maintain higher relative mobility across time. The gap between rural and urban widens toward the end of May with urban counties falling behind. Interestingly, many urban-classified areas seem to have returned to normal - though I expect urban counties in large cities like NYC to help in pulling down the urban average. The rural and suburban counties end well above their average in January which perhaps might suggest a trend where many people may want to move and travel after being living at home for a while.
 

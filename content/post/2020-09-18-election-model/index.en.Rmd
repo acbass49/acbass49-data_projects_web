@@ -1,5 +1,5 @@
 ---
-title: Presenting...The Presidential Pulse Checker!
+title: Presenting...My Election Model!
 author: Alex Bass
 date: '2020-09-18'
 slug: election-model
@@ -13,7 +13,7 @@ thumbnail: images/favicon2.png
 ---
 There are a lot of election models out there - [the Economist](https://projects.economist.com/us-2020-forecast/president), [FiveThirtyEight](https://projects.fivethirtyeight.com/2020-election-forecast/), and the [Cook Political Report](https://cookpolitical.com/sites/default/files/2020-09/EC%20Ratings.091720.3.pdf) to name a few. So what am I doing here?
 
-![](/./about_files/vote.jpg#center){width=100% height=300px}
+![](/./about_files/vote.jpg#center){width=100%}
 
 ##### The Problem
 
@@ -34,11 +34,11 @@ Latest probabilities:
 
 If there were 100 presidential elections today in 100 different worlds like ours, how many would Trump/Biden win?
 
-![](/./about_files/simulation_21.png#center){width=400px height=400px}
+![](/./about_files/simulation_21.png#center)
 
 Daily Tracker: (Percentage of daily simulations won plotted over time; hover for more info)
 
-<iframe width="800" height="400" frameborder="0" scrolling="no" src="//plotly.com/~acbass49/11.embed"></iframe>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~acbass49/11.embed"></iframe>
 
 Links to polling aggregators: [FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/national/), [RealClearPolitics](https://www.realclearpolitics.com/epolls/latest_polls/).
 
