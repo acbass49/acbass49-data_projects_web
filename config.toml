@@ -31,7 +31,7 @@ pygmentsUseClasses = true
     enableFacebookShare = false
     enableLinkedInShare = false
     
-    thumbnail = "images/favicon2.png"
+    thumbnail = "images/vader.jpg"
     
     # Custom CSS
     custom_css = []

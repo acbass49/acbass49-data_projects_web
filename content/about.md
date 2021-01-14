@@ -20,7 +20,7 @@ Recently, I find myself doing data analysis and programming projects in my free 
 ---------------------------
 ### Personal Life
 
-I am a member of the Church of Jesus Christ of Latter-day Saints and I try and give back my church which has blessed my life immensely.
+I am a member of the Church of Jesus Christ of Latter-day Saints and I try and give back to my church which has blessed my life immensely.
 
 When I am not working on data stuff or at church, I am probably on a walk, reading a book, playing board games/video games, or spending time with family/friends. I happily reside in Arlington, VA.
 
