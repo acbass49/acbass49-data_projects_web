@@ -19,7 +19,7 @@ While we were enjoying the boiled peanuts and talking about the menu, Micah was 
 
 I built the web app below. Try it out! Put in a few words and make one for yourself!
 
-<p align="center"><iframe src="https://acbass49.shinyapps.io/crossword_puzzle/" align=middle; style="border: none; width: 300; height: 1200px"></iframe></p>
+<p align="center"><iframe src="https://acbass49.shinyapps.io/crossword_puzzle/" align=middle; style="border: none; width: 350; height: 1200px"></iframe></p>
 
 The code I used to generate this puzzle is found [here](https://github.com/acbass49/wordsearch). I will probably write-up a post later detailing the steps I took to program this. Honestly, it was a lot of fun for me.
 
