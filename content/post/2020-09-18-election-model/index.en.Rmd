@@ -11,6 +11,7 @@ tags:
 description: ''
 thumbnail: images/favicon2.png
 ---
+*Last updated November 2, 2020*
 There are a lot of election models out there - [the Economist](https://projects.economist.com/us-2020-forecast/president), [FiveThirtyEight](https://projects.fivethirtyeight.com/2020-election-forecast/), and the [Cook Political Report](https://cookpolitical.com/sites/default/files/2020-09/EC%20Ratings.091720.3.pdf) to name a few. So what am I doing here?
 
 ![](/./about_files/vote.jpg#center){width=100%}

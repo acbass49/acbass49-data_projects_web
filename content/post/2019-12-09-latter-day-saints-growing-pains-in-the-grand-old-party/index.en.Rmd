@@ -12,7 +12,6 @@ tags:
 description: ''
 thumbnail: images/favicon2.png
 ---
-*Last updated November 2, 2020*
 ![](/./about_files/iu-3.jpeg#center)
 
 ##### Introduction
