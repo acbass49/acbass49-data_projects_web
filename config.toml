@@ -2,6 +2,7 @@ baseurl = "/"
 title = "Alex Bass"
 
 theme = "hugo-coder-portfolio"
+googleAnalytics = "G-G9JBYKCQVV"
 
 DefaultContentLanguage = "en"
 
