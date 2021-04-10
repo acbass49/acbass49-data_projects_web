@@ -1,9 +1,9 @@
 {
-    "path" : "~/rProjects/Blogdown/personalSite/acbass49-data_projects_web/themes/hugo-coder-portfolio/layouts/partials",
-    "sortOrder" : [
+    "path": "~/rProjects/Blogdown/personalSite/acbass49-data_projects_web/themes/hugo-coder-portfolio/layouts",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
