@@ -37,7 +37,7 @@ Whew Ok. Lets see what's going on here. Most clearly, my reactions spiked in 202
 
 ![](/./about_files/emoji.png#center)
 
-I filtered these results for the last year to show my current most popular emojis. When I made this graph showing all of my data on reactions, I just got a bunch of "Like"s because that was the only reactions available for a long time; hence, I decided to filter. Hmm perhaps I should try using the care/angry emojis.
+Well the "Love" emoji is my most popular as of recent times (this is filtered). When I made this graph originally using ALL of my data, I just got a bunch of "Like"s because that was the only reaction available for a long time; hence, I decided to filter the data to the last year only. Hmm perhaps I should try using the care/angry emojis.
 
 -------------------------------
 
