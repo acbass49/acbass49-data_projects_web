@@ -1,0 +1,34 @@
+---
+title: My Facebook Data... EXPOSED
+author: Alex Bass
+date: '2021-04-10'
+slug: facebook-EXPOSED
+categories: []
+tags:
+  - Data Visualization
+  - R
+  - Progamming
+description: ''
+thumbnail: images/vader.jpg
+---
+
+<script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+
+
+<p>Did you like the title? You can thank all of my click-bait ad consumption for that.</p>
+<p>As some of you may know, my work is fairly political, so I have developed a stronger habit of staying up to date on news and politics. Recently, social media has made some headlines including leaders speaking at congressional hearings; some are concerned about its influence on elections; others talk of censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro so far) I wanted to download my personal data from Facebook to see an overview of the role its played in my life.</p>
+<p>I made 4 figures. My goal for my next project is to make an app that lets YOU upload YOUR data and will generate these figures for YOU.</p>
+<p><img src="/./about_files/trends.png#center" /></p>
+<p>Whew Ok. Lets see what’s going on here. Most obviously, my reactions spiked in 2020. My posts have also inched up then. Wow, I guess the pandemic has increased my social media usage 😬, but me deploying and posting for my blog on FB last year probably helps. Another thing, if you look closer, notice that there are no data points for 2015. In 2015, I was on my church service mission for the entire year and didn’t use social media! But, my friends spiked in 2016 making up for lost time and college freshman friends. Also, I moved twice in my 2019 college year and met a lot of people which explains the second friend bump. Hmm I wonder what YOUR graph would look like?👀</p>
+<p><em>Note: I aggregated the data by year. So, my 2021 data is lower than the rest, but this may not be because I have used it less, but rather there are many days left in this year that haven’t been accounted for.</em></p>
+<p><img src="/./about_files/emoji.png#center" /></p>
+<p>I filtered these results for the last year to show the ones that are most popular to me recently. When I tried to show all of my data on reactions, I just got a bunch of “Like”s because that was the only reactions available for a long time. I should get around to using the care emoji I suppose.</p>
+<p><strong>Best Facebook Friends Wordlcloud</strong>
+<img src="/./about_files/wc.png#center" /></p>
+<p>Alright, this is what we’re really here for. <strong>The bigger the name, the closer I think you are to that person given your Facebook data.</strong> So for me, my method says Austin Sebaske-Smith and Brandon Archer are my best FB friends, and turns out they are both worthy of that title🥺. If your name isn’t big or on the chart don’t worry, I still care about for you too.</p>
+<p><em>How did I do this: I gave a certain amount of “friendship points” for each time you reacted to a person, mentioned a person in a comment, posted about a person, etc. Afterwards, I totaled these points for each friend. I then weighted by interaction(if I mentioned you in a post or comment, It could mean more than a simple reaction to a post) and recency</em></p>
+<p><img src="/./about_files/sentiment.png#center" /></p>
+<p>This last part was a fun add-on for me. Using a simple model, I processed all of my comments and posts and tried to determine which were positive and negative. Thankfully, a lot of my interactions were coded as positive😁. Though I think this is largely due to commenting for friends birthdays.</p>
+<p><em>How did I do this: there is a whole subsection of data science that is particularly focused on a computer understanding different sentiments in written text. It is called Natural Language Processing. This is fairly new field that has A LOT of room to grow. So there can be low accuracy and many errors. I used a dictionary that has words coded as positive and negative and I matched it my comments and posts for these scores</em></p>
+<p>Now my secrets are exposed - Oh well. Thanks for reading:) Let me know if you would be interested in the app that generates these graphs for you. It might help me have more motivation to finish it.</p>
+<p>My code for this post is here.</p>
