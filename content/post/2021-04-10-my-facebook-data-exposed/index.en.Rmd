@@ -15,7 +15,7 @@ Did you like the title? You can thank all of my click-bait ad consumption for th
 
 ![](/./about_files/fb_icon.png#center)
 
-As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including leaders speaking at congressional hearings and reporters expressing concern over its influence on elections and worrying about censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got my account.
+As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including leaders speaking at congressional hearings and reporters expressing concern over its influence on elections and worrying about censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got an account.
 
 #### 👇Read This👇
 
@@ -45,7 +45,7 @@ I filtered these results for the last year to show my current most popular emoji
 
 ![](/./about_files/wc.png#center)
 
-Alright, this is what we're really here for. **The bigger the name, the better friends my method thinks I am to that person.** So for me, Austin Sebaske-Smith and Brandon Archer are my best FB friends, and turns out they are both worthy of that title🥺. If your name isn't big or on the chart don't worry, I still care about for you too.
+Alright, this is what we're really here for. **The bigger the name, the better friends my method thinks I am to that person.** So for me, Austin Sebaske-Smith and Brandon Archer are my best FB friends, and turns out they are both worthy of that title🥺. If your name isn't big or on the chart don't worry, I still care about you too.
 
 *How did I do this: I gave a certain amount of "friendship points" for each time you reacted to a person, mentioned a person in a comment, posted about a person, etc. Afterwards, I totaled these points for each friend. I then weighted by interaction(if I mentioned you in a post or comment, It could mean more than a simple reaction to a post) and recency*
 
