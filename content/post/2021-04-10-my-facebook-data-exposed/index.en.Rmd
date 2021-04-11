@@ -15,11 +15,11 @@ Did you like the title? You can thank all of my click-bait ad consumption for th
 
 ![](/./about_files/fb_icon.png#center)
 
-As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including leaders speaking at congressional hearings, concern over its influence on elections, and worry over censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro so far), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got an account.
+As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including leaders speaking at congressional hearings, concern over its influence on elections, and worry over censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro so far), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got my account.
 
 #### 👇Read This👇
 
-I made 4 figures from MY Facebook data. In my next project, I'm making an web app that lets YOU upload YOUR data and will generate these same figures for YOU. So, be thinking about what these figures would look like for YOUR data.
+I made 4 figures from MY Facebook data. In my next project, I'm making a web app that lets YOU upload YOUR data and will generate these same figures for YOU. So, be thinking about what these figures would look like for YOUR data.
 
 -------------------------------
 
@@ -27,7 +27,7 @@ I made 4 figures from MY Facebook data. In my next project, I'm making an web ap
 
 ![](/./about_files/trends.png#center)
 
-Whew Ok. Lets see what's going on here. Most obviously, my reactions spiked in 2020. My posts have also inched up at that time. Wow, I guess the pandemic has increased my social media usage😬, but starting my blog last year probably helps with this. Another thing, if you look closer, notice that there are no data points for 2015. In 2015, I was on my church service mission for the entire year and didn't use social media! But, my friends spiked in 2016 accounting for the friends I made during that time and college freshman friends. Also, I moved twice in my 2019 college year and met a lot of people which explains the second friend bump. Hmm I wonder what YOUR graph would look like?👀
+Whew Ok. Lets see what's going on here. Most clearly, my reactions spiked in 2020. My posts also inched up during that time. Wow, I guess the pandemic has increased my social media usage😬, but starting this blog last year probably contributed to this. Another thing, if you look closer, notice that there are no data points for 2015. In 2015, I was on my church service mission for the entire year and didn't use social media! But, my friends spiked in 2016 accounting for the friends I made during that time and college freshman friends. Also, I moved twice in my 2019 college year and met a lot of people which explains the second friend bump. Hmm I wonder what YOUR graph would look like?👀👀
 
 *Note: I aggregated the data by year. So, my 2021 data points are lower than the rest, but this may not be because I have used Facebook less during 2021, but rather there are many days left in this year that haven't been accounted for.*
 
@@ -37,7 +37,7 @@ Whew Ok. Lets see what's going on here. Most obviously, my reactions spiked in 2
 
 ![](/./about_files/emoji.png#center)
 
-I filtered these results for the last year to show my current most popular emojis . When I made this graph showing all of my data on reactions, I just got a bunch of "Like"s because that was the only reactions available for a long time. Hmm perhaps I should try using the care/angry emojis.
+I filtered these results for the last year to show my current most popular emojis. When I made this graph showing all of my data on reactions, I just got a bunch of "Like"s because that was the only reactions available for a long time; hence, I decided to filter. Hmm perhaps I should try using the care/angry emojis.
 
 -------------------------------
 
