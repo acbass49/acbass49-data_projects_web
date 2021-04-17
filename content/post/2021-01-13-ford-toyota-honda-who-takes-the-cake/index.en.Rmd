@@ -20,6 +20,7 @@ A look into US car sales data in the last 25 years...
 This project started out as me trying to recreate a moving bar chart. I saw them around online and thought they were a cool way to visualize data over time that reminded me of a "data race." Ironically, I came across a great site that stores car sales data over time, and thought it was the perfect fit to create a "race chart." However, after I created my moving bar chart, I was still interested in learning more about car trends over time, and thought you might be as well. So, I decided to make some figures and write up a short piece.
 
 In this post, I want to answer these two bullet-points:
+
 * What have US car brand sales looked like since 1996?
 * What is the top car brand now and since 1996 in the United States? What brands have sold more over time?
 
