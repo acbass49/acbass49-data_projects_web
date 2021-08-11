@@ -32,7 +32,7 @@ pygmentsUseClasses = true
     enableFacebookShare = false
     enableLinkedInShare = false
     
-    thumbnail = "images/favicon1.png"
+    thumbnail = "images/favicon1.jpeg"
     
     # Custom CSS
     custom_css = []
