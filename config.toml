@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 
 [params]
     author = "ALEX BASS"
-    description = "Alex Bass' personal website"
+    description = "Alex Bass' data, polling"
     keywords = "data,programming,visualization"
     info = "RESEARCH ANALYST"
     avatarurl = "images/alex.jpeg"
