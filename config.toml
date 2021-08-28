@@ -85,6 +85,6 @@ pygmentsUseClasses = true
     url  = "files/cv.pdf"
     
 [[menu.main]]
-    name = "Contact Me"
+    name = "Contact"
     weight = 5
     url  = "contact"
