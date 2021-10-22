@@ -7,7 +7,7 @@ categories: Progamming
 tags:
 - Data Visualization
 - R
-description: automated emails about covid
+description: "automated emails about covid"
 thumbnail: images/favicon1.jpeg
 ---
 
@@ -15,8 +15,16 @@ thumbnail: images/favicon1.jpeg
 
 I'm excited to introduce a quick project I've been working on the past few days.
 
-Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rate fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case data.
+Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case data.
 
-<img src=”https://raw.githubusercontent.com/acbass49/covid_email_update/main/national_av.png”>
+There are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national vaccination rate. 
 
-WHY ISNT MY image showing up!!
+Attached to the email is a visualization like this one showing the national trends across time...
+
+![](/./about_files/national_av.png#center)
+
+If you are interested in receiving this weekly update, fill out the brief survey below:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2RE0SgPTwCOat_6BrRyvRITN_94wIIfwn1f0cD_iexZYXlw/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for dropping in. 
