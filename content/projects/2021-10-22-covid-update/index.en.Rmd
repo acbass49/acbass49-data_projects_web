@@ -25,7 +25,7 @@ Attached to the email is a visualization showing the data trends across time (an
 
 ##### Embedded Survey Form
 
-If you are interested in receiving this weekly update, drop your email in the survey below...
+If you are interested in receiving this weekly update, drop your email below...
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2RE0SgPTwCOat_6BrRyvRITN_94wIIfwn1f0cD_iexZYXlw/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
