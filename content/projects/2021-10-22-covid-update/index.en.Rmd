@@ -27,6 +27,6 @@ Attached to the email is a visualization like this one showing the national tren
 
 If you are interested in receiving this weekly update, drop your email in the survey below...
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2RE0SgPTwCOat_6BrRyvRITN_94wIIfwn1f0cD_iexZYXlw/viewform?embedded=true" width="100%" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2RE0SgPTwCOat_6BrRyvRITN_94wIIfwn1f0cD_iexZYXlw/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for dropping in. 
+As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in. 
