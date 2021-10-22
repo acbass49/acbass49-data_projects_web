@@ -23,6 +23,9 @@ Attached to the email is a visualization showing the data trends across time (an
 
 ![](/./about_files/national_av.png#center)
 
+
+
+
 ##### Embedded Survey Form
 
 If you are interested in receiving this weekly update, drop your email below...
