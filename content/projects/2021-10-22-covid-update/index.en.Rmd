@@ -11,7 +11,7 @@ description: "automated emails about covid"
 thumbnail: images/favicon1.jpeg
 ---
 
-##### My latest project!
+##### Weekly Covid Email Update
 
 I'm excited to introduce a quick project I've been working on the past few days.
 
