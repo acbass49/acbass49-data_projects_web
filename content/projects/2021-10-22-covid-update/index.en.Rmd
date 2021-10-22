@@ -15,11 +15,11 @@ thumbnail: images/favicon1.jpeg
 
 I'm excited to introduce a quick project I've been working on the past few days.
 
-Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case data.
+Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data.
 
-There are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national vaccination rate. 
+At the beginning of the email, there are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national vaccination rate is. 
 
-Attached to the email is a visualization like this one showing the national trends across time...
+Attached to the email is a visualization showing the data trends across time (an updated version of the one below 👇)
 
 ![](/./about_files/national_av.png#center)
 
