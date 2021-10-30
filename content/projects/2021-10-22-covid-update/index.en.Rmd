@@ -19,7 +19,7 @@ Recently, with the rise of the delta variant of coronavirus, I have found myself
 
 At the beginning of the email, there are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national and state vaccination rates are. 
 
-Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (an updated version of the one below 👇)
+Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (state and national version of the figure below 👇)
 
 ![](/./about_files/national_av.png#center)
 
