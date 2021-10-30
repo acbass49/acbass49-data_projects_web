@@ -11,9 +11,11 @@ description: "automated emails about covid"
 thumbnail: images/favicon1.jpeg
 ---
 
+![](/./about_files/national_av.png#center)
+
 ##### Project Description
 
-I'm excited to introduce a quick project I've been working on the past few days.
+I'm excited to introduce a quick project I've been working on.
 
 Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data.
 
@@ -22,8 +24,6 @@ At the beginning of the email, there are a few lines of text saying whether the 
 Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (they look similar to the figure below 👇)
 
 *One note: To get the vaccination rate for each state and nationally, I compared the number vaccinated against the total population (not just 18+ or 12+). I got the state population numbers from the census, and count is included in the figures for reference. I decided to use the total US population because I think that will eventually be relevant as more age groups are approved for various vaccines. If you are interested in different numbers, I have a link with more information included included in the weekly email.*
-
-![](/./about_files/national_av.png#center)
 
 As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in.
 
