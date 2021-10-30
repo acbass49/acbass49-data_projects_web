@@ -30,6 +30,6 @@ Attached to the email is a visualization showing the data trends across time (an
 
 If you are interested in receiving this weekly update, drop your email below...
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2RE0SgPTwCOat_6BrRyvRITN_94wIIfwn1f0cD_iexZYXlw/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd6j197rbqv4kZHvvH6ZTVC6o9vU4V-hjzO6E4EjKq5VG2U6Q/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in. 
