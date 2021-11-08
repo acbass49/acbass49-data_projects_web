@@ -13,7 +13,7 @@ thumbnail: images/favicon1.jpeg
 
 ##### Project Description
 
-I'm excited to introduce a project I've been working on. (Scroll to the bottom to opt-in 🙂)
+I'm excited to introduce a project I've been working on. (**Scroll to the bottom to opt-in** 🙂)
 
 Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data.
 
