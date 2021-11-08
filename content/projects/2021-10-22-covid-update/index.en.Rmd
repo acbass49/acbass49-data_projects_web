@@ -27,17 +27,19 @@ blogdown::shortcode('tweet', '1456285383000567810')
 
 Right when I think I don't have to worry about COVID anymore, I find myself *once again* click through a website checking case, death, and vaccination rates. Instead of this, I created an **automated email that sends on Saturday mornings with the latest case/death/vaccination data**, so you can be informed with raw data on a weekly check-in basis nationally and for your state.
 
+#### Email Structure
+
 At the beginning of the email, there are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national and your state's vaccination rates are. 
 
-![](/./about_files/national_av.png#center)
+Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (they look similar to the figure below 👇)
 
-Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (they look similar to the figure above 👆)
+![](/./about_files/national_av.png#center)
 
 *One note: To get the vaccination rate for each state and nationally, I compared the number vaccinated against the TOTAL population (not just 18+ or 12+). I got the state population numbers from the census, and count is included in the figures for reference. I decided to use the total US population because I think that will eventually be relevant as more age groups are approved for various vaccines. If you are interested in different numbers, I have a link with more information included in the weekly email.*
 
 As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in.
 
-##### Embedded Survey Form
+#### Embedded Survey Form
 
 If you are interested in receiving this brief weekly update, drop your email in below... **You can only submit after answering both questions!**
 
