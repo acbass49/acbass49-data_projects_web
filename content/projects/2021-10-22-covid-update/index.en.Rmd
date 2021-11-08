@@ -13,13 +13,17 @@ thumbnail: images/favicon1.jpeg
 
 ##### Project Description
 
-I'm excited to introduce a project I've been working on. (**Scroll to the bottom to opt-in** 🙂)
+I'm excited to introduce a project I've been working on.
 
-Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data.
+(**TL:DR I created a weekly COVID email update. Scroll to the bottom to opt-in** 🙂)
+
+In the past few days, Europe has seen a third wave of COVID19 surge through and several other countries are reporting higher cases this week. All of this begs the question of whether COVID will have a *third* strong wave after the what we've seen from the delta variant. Here is a tweet from the World Health Organization detailing some of this:
 
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1456285383000567810')
 ```
+
+Right when I think I don't have to worry about COVID anymore, I find myself *once again* click through a website checking case, death, and vaccination rates. Instead of that, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data, so you can be informed with a weekly check-in nationally and for your state.
 
 At the beginning of the email, there are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national and your state's vaccination rates are. 
 
@@ -27,7 +31,7 @@ At the beginning of the email, there are a few lines of text saying whether the 
 
 Attached to the email are two visualizations showing the data trends across time: one showing national trend, the other showing your state's trend (they look similar to the figure above 👆)
 
-*One note: To get the vaccination rate for each state and nationally, I compared the number vaccinated against the total population (not just 18+ or 12+). I got the state population numbers from the census, and count is included in the figures for reference. I decided to use the total US population because I think that will eventually be relevant as more age groups are approved for various vaccines. If you are interested in different numbers, I have a link with more information included included in the weekly email.*
+*One note: To get the vaccination rate for each state and nationally, I compared the number vaccinated against the TOTAL population (not just 18+ or 12+). I got the state population numbers from the census, and count is included in the figures for reference. I decided to use the total US population because I think that will eventually be relevant as more age groups are approved for various vaccines. If you are interested in different numbers, I have a link with more information included in the weekly email.*
 
 As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in.
 
