@@ -17,7 +17,7 @@ thumbnail: images/favicon1.jpeg
 
 I'm excited to talk about this latest project🎉🎉
 
-In the past few days, Europe has seen a third wave of COVID-19 surge through and several other countries are reporting higher cases this week (~10% increase!). All of this begs the question of whether COVID in the U.S. will have a *third* strong wave after the what we've seen from the delta variant. Here is a tweet from the World Health Organization detailing some of this:
+In the past few days, Europe has seen a third wave of COVID-19 surge through and several other countries are reporting higher cases this week (~10% increase!). All of this begs the question of whether COVID in the U.S. will have a *third* strong wave after the what we've seen from the delta variant and with winter coming. Here is a tweet from the World Health Organization detailing some of this:
 
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1456285383000567810')
@@ -25,7 +25,7 @@ blogdown::shortcode('tweet', '1456285383000567810')
 
 #### So, Cue In My Project..
 
-Right when I think I don't have to worry about COVID anymore, I find myself *once again* click through a website checking case, death, and vaccination rates. Instead of this, I created an **automated email that sends on Saturday mornings with the latest case/death/vaccination data**, so you can be informed with raw data on a weekly check-in basis nationally and for your state.
+Right when I think I don't have to worry about COVID anymore, I find myself *once again* clicking through a website checking case, death, and vaccination rates. Instead of this, I created an **automated email that sends on Saturday mornings with the latest case/death/vaccination data**, so you can be informed with raw data on a weekly check-in basis nationally and for your state.
 
 #### Email Structure
 
