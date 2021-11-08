@@ -17,6 +17,10 @@ I'm excited to introduce a project I've been working on. (Scroll to the bottom t
 
 Recently, with the rise of the delta variant of coronavirus, I have found myself checking case, death, and vaccination rates fairly frequently. Instead of having to click through a website, I created an automated email that sends on Saturday mornings with the latest case/death/vaccination data.
 
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1456285383000567810')
+```
+
 At the beginning of the email, there are a few lines of text saying whether the case rate is increasing/decreasing/staying about the same and what the national and your state's vaccination rates are. 
 
 ![](/./about_files/national_av.png#center)
