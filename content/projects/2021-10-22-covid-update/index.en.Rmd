@@ -37,7 +37,7 @@ Attached to the email are two visualizations showing the data trends across time
 
 *One note: To get the vaccination rate for each state and nationally, I compared the number vaccinated against the TOTAL population (not just 18+ or 12+). I got the state population numbers from the census, and count is included in the figures for reference. I decided to use the total US population because I think that will eventually be relevant as more age groups are approved for various vaccines. If you are interested in different numbers, I have a link with more information included in the weekly email.*
 
-As always, code is [viewable](https://github.com/acbass49/covid_email_update). Thanks for stopping in.
+The code is not viewable for this project because of email privacy, but happy to share code snippets for personal inquiries. Thanks for stopping in.
 
 #### Embedded Survey Form
 
