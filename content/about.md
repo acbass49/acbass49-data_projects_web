@@ -13,7 +13,7 @@ thumbnail: images/tn.png
 ---------------------------
 ### About Me
 
-Hi! My name is Alex Bass. I recently started a graduate program at the University of Virginia in Data Science. I have been an analyst as a research fellow, teaching assistant, and professionally at top polling companies for the past 4 years.
+Hi! My name is Alex Bass. I work as an analyst at Morning Consult, a leading polling and market research firm. Also, I am in a graduate program at the University of Virginia in Data Science.
 
 Recently, I find myself doing data analysis and programming projects in my free time. I created this blog as a place to post some of these fun projects I work on off the clock.
 
