@@ -13,6 +13,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 pygmentsUseClasses = true
 
+disqusShortname = "alexbassc"
+
 [params]
     author = "ALEX BASS"
     description = "Alex Bass, data, programming"
