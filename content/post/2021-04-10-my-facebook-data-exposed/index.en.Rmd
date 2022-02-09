@@ -68,6 +68,7 @@ Now my secrets are exposed - Oh well. Thanks for reading:) Shoot me a message or
 
 My code for this post is [here](https://github.com/acbass49/FBdataAnalytics).
 
+<div id="disqus_thread"></div>
 <script>
 /**
 *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
