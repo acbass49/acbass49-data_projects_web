@@ -1,0 +1,12 @@
+---
+title: test
+author: R package build
+date: '2022-02-09'
+slug: []
+categories: []
+tags: []
+description: ''
+thumbnail: images/favicon1.jpeg
+---
+
+I just want to see if disqus will work with a new post
