@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alex Bass</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Alex Bass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Covid Email Update</title>
+      <link>/projects/2021-10-22-covid-update/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2021-10-22-covid-update/</guid>
+      <description>Intro (TL;DR I created a weekly COVID email update. Scroll to the bottom to opt-in🙂)
+I’m excited to talk about this latest project🎉🎉
+In the past few days, Europe has seen a third wave of COVID-19 surge through and several other countries are reporting higher cases this week (~10% increase!). All of this begs the question of whether COVID in the U.S. will have a third strong wave after the what we’ve seen from the delta variant and with winter coming.</description>
+    </item>
+    
+    <item>
+      <title>Presenting...My Election Model!</title>
+      <link>/projects/election-model/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/election-model/</guid>
+      <description>Last updated November 2, 2020
+There are a lot of election models out there - the Economist, FiveThirtyEight, and the Cook Political Report to name a few. So what am I doing here?
+The Problem Honestly, I was irritated in blindly trusting other’s models. Many election model builders claim to use demographic patterns, previous election results, economic considerations, polls, etc.. But, beside polling numbers, what data exactly are they using and where does it come from?</description>
+    </item>
+    
+    <item>
+      <title>Boiled Peanuts and Word Search Puzzles</title>
+      <link>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</guid>
+      <description>The genesis of this project came late night at a restaurant dinner in Charleston. I went out with my family to enjoy one of the delicious seafood locales common to the holy city. Going out with my family is always enjoyable with good conversation and lots of laughs. My parents enjoy taking our family out to eat now because my 4 siblings are mostly college-aged and can behave well in a public setting.</description>
+    </item>
+    
+  </channel>
+</rss>

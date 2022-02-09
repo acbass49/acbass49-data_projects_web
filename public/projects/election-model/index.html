@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="ALEX BASS">
+    <meta name="description" content="/">
+    <meta name="keywords" content="data,programming,visualization">
+
+    <meta property="og:site_name" content="Alex Bass">
+    <meta property="og:title" content="
+  Presenting...My Election Model! - Alex Bass
+">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="/projects/election-model/">
+    <meta property="og:image" content="/images/favicon2.png">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="/projects/election-model/">
+    <meta name="twitter:image" content="/images/favicon2.png">
+
+    <base href="/projects/election-model/">
+    <title>
+  Presenting...My Election Model! - Alex Bass
+</title>
+
+    <link rel="canonical" href="/projects/election-model/">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="/css/normalize.min.css">
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    
+
+    
+      <link rel="stylesheet" href="/css/foo.css">
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="shortcut icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    
+      <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Alex Bass">
+      <link href="/index.xml" rel="feed" type="application/rss+xml" title="Alex Bass" />
+    
+
+    <meta name="generator" content="Hugo 0.88.1" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <head>
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-194046200-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+  
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-194046200-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">Alex Bass</a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile  float-right " for="menu-control">
+      <span class="btn-mobile  float-right ">&#9776;</span>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/about">About</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/post">Blog</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/projects">Projects</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/files/cv.pdf">CV</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="/contact">Contact</a>
+            </li>
+          
+        
+        
+      </ul>
+    </label>
+  </section>
+</nav>
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>Presenting...My Election Model!</h1>
+    </header>
+
+    
+
+
+<p><em>Last updated November 2, 2020</em></p>
+<p>There are a lot of election models out there - <a href="https://projects.economist.com/us-2020-forecast/president">the Economist</a>, <a href="https://projects.fivethirtyeight.com/2020-election-forecast/">FiveThirtyEight</a>, and the <a href="https://cookpolitical.com/sites/default/files/2020-09/EC%20Ratings.091720.3.pdf">Cook Political Report</a> to name a few. So what am I doing here?</p>
+<p><img src="/./about_files/vote.jpg#center" style="width:100.0%" /></p>
+<div id="the-problem" class="section level5">
+<h5>The Problem</h5>
+<p>Honestly, I was irritated in blindly trusting other’s models. Many election model builders claim to use demographic patterns, previous election results, economic considerations, polls, etc.. But, beside polling numbers, what data exactly are they using and where does it come from? Also, what do their models actually look like? Ideally, I would want enough information to recreate the model myself to see what they actually did, but that information isn’t available. I understand that model-builders may not want to be undermined and critiqued by skeptics where their work may lose credibility to egotistic data lords or others, but even-so I would appreciate more transparency (especially after the 2016 election). Also, I understand that the data that are used may be sensitive information they pay for which is more understandable.</p>
+</div>
+<div id="what-i-did" class="section level5">
+<h5>What I did</h5>
+<p>My goal was to create a model that is based exclusively on <strong>recent quality polling</strong>, and that’s it! No mysterious variables thrown into already complex models; no sensitive consumer data that feels like violations of privacy; and, no blindly trusting an invisible methodology where you can’t possibly recreate the model. <strong>These probabilities are calculated SOLELY from an average of the five latest, quality polls in each state.</strong> Here is my <a href="https://github.com/acbass49/PresidentialPulseChecker/blob/master/Methodology.pdf">methodology</a> and <a href="https://github.com/acbass49/PresidentialPulseChecker">code</a>. Overall, the purpose is to give an educated guess of what would happen if the election were held each week (I plan to update this each day until the election). I mostly did this for an easy way to keep track of the recent polls and pulse check the election map looks at a moments notice.</p>
+<hr />
+</div>
+<div id="i-present-the-presidential-pulse-checker" class="section level5">
+<h5>I present the Presidential Pulse Checker</h5>
+<p>Latest probabilities:
+(BEST VIEWING ON DESKTOP. If you are on a mobile device, press on states for more info; otherwise, hover.)</p>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~acbass49/9.embed">
+</iframe>
+<p>If there were 100 presidential elections today in 100 different worlds like ours, how many would Trump/Biden win?</p>
+<p><img src="/./about_files/simulation_21.png#center" /></p>
+<p>Daily Tracker: (Percentage of daily simulations won plotted over time; hover for more info)</p>
+<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~acbass49/11.embed">
+</iframe>
+<p>Links to polling aggregators: <a href="https://projects.fivethirtyeight.com/polls/president-general/national/">FiveThirtyEight</a>, <a href="https://www.realclearpolitics.com/epolls/latest_polls/">RealClearPolitics</a>.</p>
+<p>Thanks for viewing this post. Check back soon for more updates:)</p>
+</div>
+
+  </article>
+</section>
+
+
+      </div>
+      
+        <footer class="footer">
+  <section class="container">
+    
+      <div class="sns-shares sp-sns-shares">
+        
+        
+        
+        
+        
+      </div>
+    
+    
+      <p>Hello there! Check out the BLOG or PROJECT tabs for latest my thoughts and work 👌</p>
+    
+     
+
+  </section>
+</footer>
+<div class="fixed-bar">
+  <section class="container">
+    
+    
+      <div class="sns-shares pc-sns-shares">
+        
+        
+        
+        
+        
+      </div>
+    
+  </section>
+</div>
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-194046200-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+      
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-194046200-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  <script src="/js/app.js"></script>
+  
+  </body>
+</html>

@@ -5,107 +5,85 @@
     <link>/</link>
     <description>Recent content on Alex Bass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly Covid Email Update</title>
+      <link>/projects/2021-10-22-covid-update/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2021-10-22-covid-update/</guid>
+      <description>Intro (TL;DR I created a weekly COVID email update. Scroll to the bottom to opt-in🙂)
+I’m excited to talk about this latest project🎉🎉
+In the past few days, Europe has seen a third wave of COVID-19 surge through and several other countries are reporting higher cases this week (~10% increase!). All of this begs the question of whether COVID in the U.S. will have a third strong wave after the what we’ve seen from the delta variant and with winter coming.</description>
+    </item>
+    
+    <item>
+      <title>My Facebook Data... EXPOSED</title>
+      <link>/post/facebook-exposed/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/facebook-exposed/</guid>
+      <description>Do you like the title? You can thank all of my click-bait ad consumption for that.
+As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including talks at congressional hearings, reporters expressing concern over its influence on elections, and some are worrying about censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got an account.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>/about/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>About Me Hi! My name is Alex Bass. I recently graduated from Brigham Young University where I helped teach students econometrics and was an undergraudate fellow for the Center for the Study of Elections and Democracy. Now, I work at Echelon Insights as a Research Analyst.
+      <description>About Me Hi! My name is Alex Bass. I work as an analyst at Morning Consult, a leading polling and market research firm. Also, I am a graduate student at the University of Virginia in Data Science.
 Recently, I find myself doing data analysis and programming projects in my free time. I created this blog as a place to post some of these fun projects I work on off the clock.</description>
     </item>
     
     <item>
-      <title>Testing</title>
-      <link>/post/testing/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Latter-Day Saints: Growing Pains In The GOP</title>
+      <link>/post/2019-12-09-latter-day-saints-growing-pains-in-the-grand-old-party/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing/</guid>
-      <description>hello world Does this even work??</description>
+      <guid>/post/2019-12-09-latter-day-saints-growing-pains-in-the-grand-old-party/</guid>
+      <description>Introduction Between Mitt Romney’s nomination in 2012 and present times, the Republican Party has seen shifts in make-up and goals. In 2016, Trump tapped into a somewhat different base than previous Republicans - appealing strongly to non-college whites. Policy-wise, Trump has been more aggressive with border-controls, pushing domestic production, and tougher on some foreign players like China. But, while some groups have been more supportive of the evolving GOP platform, others have drifted further from it.</description>
     </item>
     
     <item>
-      <title>Testing2</title>
-      <link>/posts/testing2/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Presenting...My Election Model!</title>
+      <link>/projects/election-model/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/testing2/</guid>
-      <description>Hello world. Can you hear me?</description>
+      <guid>/projects/election-model/</guid>
+      <description>Last updated November 2, 2020
+There are a lot of election models out there - the Economist, FiveThirtyEight, and the Cook Political Report to name a few. So what am I doing here?
+The Problem Honestly, I was irritated in blindly trusting other’s models. Many election model builders claim to use demographic patterns, previous election results, economic considerations, polls, etc.. But, beside polling numbers, what data exactly are they using and where does it come from?</description>
     </item>
     
     <item>
-      <title>Features Of CoderPortfolio</title>
-      <link>/posts/featuresofcoderportfolio/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Boiled Peanuts and Word Search Puzzles</title>
+      <link>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/featuresofcoderportfolio/</guid>
-      <description>Change Point &amp;ldquo;private content&amp;rdquo; short code added. It is now possible to communicate your personal hobby and your own content.
-You can use it easily. Please see &amp;ldquo;theme-demo&amp;rdquo; for details and demo.
-An animation of red underline was added to Anchor. The site became a little fun and colorful.
-The button of the SNS share was added. It became to have an influence when writing articles more.
-Changed the color scheme of code highlight.</description>
+      <guid>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</guid>
+      <description>The genesis of this project came late night at a restaurant dinner in Charleston. I went out with my family to enjoy one of the delicious seafood locales common to the holy city. Going out with my family is always enjoyable with good conversation and lots of laughs. My parents enjoy taking our family out to eat now because my 4 siblings are mostly college-aged and can behave well in a public setting.</description>
     </item>
     
     <item>
-      <title>Theme Demo</title>
-      <link>/posts/theme-demo/</link>
-      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Ford, Toyota, Honda? Who Takes the Cake?</title>
+      <link>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
-This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
-$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
-   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+      <guid>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</guid>
+      <description>A look into US car sales data in the last 25 years…
+Introduction This project started out as me trying to recreate a moving bar chart. I saw them around online and thought they were a cool way to visualize data over time that reminded me of a “data race.” Ironically, I came across a great site that stores car sales data over time, and thought it was the perfect fit to create a “race chart.</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Mobility in the COVID-19 Era: Urban vs. Rural</title>
+      <link>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/posts/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</guid>
+      <description>Introduction In this unprecedented time, America and the world have experienced drastic changes in many aspects of modern day life. In an effort to “flatten the curve” of the coronavirus, American leaders urged for precautionary measures such as closing non-essential businesses, stay-at-home orders, and general social distancing protocol across the country.
+The coronavirus has plagued our nation for several months now. In this post, I aim to answer two questions:</description>
     </item>
     
     <item>
@@ -114,9 +92,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Have A Question? Want To Collaborate? Feel free to shoot me an email here: acbass49@gmail.com
-or ask me on Twitter.
-If you have a data idea or just want to say hi, please reach out!</description>
+      <description>Feel free to shoot me an email here: acbass49@gmail.com
+or ask me on Twitter.</description>
     </item>
     
   </channel>

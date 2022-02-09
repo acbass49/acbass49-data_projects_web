@@ -7,3 +7,9 @@ img[src$='#center']
                             horizontal 'auto' for this to work */
     /* whatever else styles you fancy here */
 }
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+}

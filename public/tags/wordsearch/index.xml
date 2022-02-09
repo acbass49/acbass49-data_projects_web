@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordsearch on Alex Bass</title>
+    <link>/tags/wordsearch/</link>
+    <description>Recent content in Wordsearch on Alex Bass</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wordsearch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boiled Peanuts and Word Search Puzzles</title>
+      <link>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</guid>
+      <description>The genesis of this project came late night at a restaurant dinner in Charleston. I went out with my family to enjoy one of the delicious seafood locales common to the holy city. Going out with my family is always enjoyable with good conversation and lots of laughs. My parents enjoy taking our family out to eat now because my 4 siblings are mostly college-aged and can behave well in a public setting.</description>
+    </item>
+    
+  </channel>
+</rss>

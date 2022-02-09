@@ -5,23 +5,45 @@
     <link>/tags/progamming/</link>
     <description>Recent content in Progamming on Alex Bass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/progamming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/progamming/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>/post/testing/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>My Facebook Data... EXPOSED</title>
+      <link>/post/facebook-exposed/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing/</guid>
-      <description>hello world Does this even work??</description>
+      <guid>/post/facebook-exposed/</guid>
+      <description>Do you like the title? You can thank all of my click-bait ad consumption for that.
+As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including talks at congressional hearings, reporters expressing concern over its influence on elections, and some are worrying about censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got an account.</description>
     </item>
     
     <item>
-      <title>Testing2</title>
-      <link>/posts/testing2/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Presenting...My Election Model!</title>
+      <link>/projects/election-model/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/testing2/</guid>
-      <description>Hello world. Can you hear me?</description>
+      <guid>/projects/election-model/</guid>
+      <description>Last updated November 2, 2020
+There are a lot of election models out there - the Economist, FiveThirtyEight, and the Cook Political Report to name a few. So what am I doing here?
+The Problem Honestly, I was irritated in blindly trusting other’s models. Many election model builders claim to use demographic patterns, previous election results, economic considerations, polls, etc.. But, beside polling numbers, what data exactly are they using and where does it come from?</description>
+    </item>
+    
+    <item>
+      <title>Boiled Peanuts and Word Search Puzzles</title>
+      <link>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/</guid>
+      <description>The genesis of this project came late night at a restaurant dinner in Charleston. I went out with my family to enjoy one of the delicious seafood locales common to the holy city. Going out with my family is always enjoyable with good conversation and lots of laughs. My parents enjoy taking our family out to eat now because my 4 siblings are mostly college-aged and can behave well in a public setting.</description>
+    </item>
+    
+    <item>
+      <title>Ford, Toyota, Honda? Who Takes the Cake?</title>
+      <link>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</guid>
+      <description>A look into US car sales data in the last 25 years…
+Introduction This project started out as me trying to recreate a moving bar chart. I saw them around online and thought they were a cool way to visualize data over time that reminded me of a “data race.” Ironically, I came across a great site that stores car sales data over time, and thought it was the perfect fit to create a “race chart.</description>
     </item>
     
   </channel>

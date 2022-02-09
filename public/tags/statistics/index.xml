@@ -5,23 +5,36 @@
     <link>/tags/statistics/</link>
     <description>Recent content in Statistics on Alex Bass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>/post/testing/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Presenting...My Election Model!</title>
+      <link>/projects/election-model/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing/</guid>
-      <description>hello world Does this even work??</description>
+      <guid>/projects/election-model/</guid>
+      <description>Last updated November 2, 2020
+There are a lot of election models out there - the Economist, FiveThirtyEight, and the Cook Political Report to name a few. So what am I doing here?
+The Problem Honestly, I was irritated in blindly trusting other’s models. Many election model builders claim to use demographic patterns, previous election results, economic considerations, polls, etc.. But, beside polling numbers, what data exactly are they using and where does it come from?</description>
     </item>
     
     <item>
-      <title>Testing2</title>
-      <link>/posts/testing2/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Ford, Toyota, Honda? Who Takes the Cake?</title>
+      <link>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/testing2/</guid>
-      <description>Hello world. Can you hear me?</description>
+      <guid>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</guid>
+      <description>A look into US car sales data in the last 25 years…
+Introduction This project started out as me trying to recreate a moving bar chart. I saw them around online and thought they were a cool way to visualize data over time that reminded me of a “data race.” Ironically, I came across a great site that stores car sales data over time, and thought it was the perfect fit to create a “race chart.</description>
+    </item>
+    
+    <item>
+      <title>Mobility in the COVID-19 Era: Urban vs. Rural</title>
+      <link>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</guid>
+      <description>Introduction In this unprecedented time, America and the world have experienced drastic changes in many aspects of modern day life. In an effort to “flatten the curve” of the coronavirus, American leaders urged for precautionary measures such as closing non-essential businesses, stay-at-home orders, and general social distancing protocol across the country.
+The coronavirus has plagued our nation for several months now. In this post, I aim to answer two questions:</description>
     </item>
     
   </channel>

@@ -5,14 +5,44 @@
     <link>/post/</link>
     <description>Recent content in Posts on Alex Bass</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>/post/testing/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <title>My Facebook Data... EXPOSED</title>
+      <link>/post/facebook-exposed/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/testing/</guid>
-      <description>hello world Does this even work??</description>
+      <guid>/post/facebook-exposed/</guid>
+      <description>Do you like the title? You can thank all of my click-bait ad consumption for that.
+As some of you may know, my work is fairly political, so I have developed a habit of staying up to date on news and politics. Recently, social media has made some headlines including talks at congressional hearings, reporters expressing concern over its influence on elections, and some are worrying about censorship. So, amid all of this (and the rest of this post is a much lighter tone than this intro), I wanted to download my personal data from Facebook to show an overview of the role its played in my life since I got an account.</description>
+    </item>
+    
+    <item>
+      <title>Latter-Day Saints: Growing Pains In The GOP</title>
+      <link>/post/2019-12-09-latter-day-saints-growing-pains-in-the-grand-old-party/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-12-09-latter-day-saints-growing-pains-in-the-grand-old-party/</guid>
+      <description>Introduction Between Mitt Romney’s nomination in 2012 and present times, the Republican Party has seen shifts in make-up and goals. In 2016, Trump tapped into a somewhat different base than previous Republicans - appealing strongly to non-college whites. Policy-wise, Trump has been more aggressive with border-controls, pushing domestic production, and tougher on some foreign players like China. But, while some groups have been more supportive of the evolving GOP platform, others have drifted further from it.</description>
+    </item>
+    
+    <item>
+      <title>Ford, Toyota, Honda? Who Takes the Cake?</title>
+      <link>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021-01-13-ford-toyota-honda-who-takes-the-cake/</guid>
+      <description>A look into US car sales data in the last 25 years…
+Introduction This project started out as me trying to recreate a moving bar chart. I saw them around online and thought they were a cool way to visualize data over time that reminded me of a “data race.” Ironically, I came across a great site that stores car sales data over time, and thought it was the perfect fit to create a “race chart.</description>
+    </item>
+    
+    <item>
+      <title>Mobility in the COVID-19 Era: Urban vs. Rural</title>
+      <link>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-06-09-mobility-in-the-covid-19-era-urban-vs-rural/</guid>
+      <description>Introduction In this unprecedented time, America and the world have experienced drastic changes in many aspects of modern day life. In an effort to “flatten the curve” of the coronavirus, American leaders urged for precautionary measures such as closing non-essential businesses, stay-at-home orders, and general social distancing protocol across the country.
+The coronavirus has plagued our nation for several months now. In this post, I aim to answer two questions:</description>
     </item>
     
   </channel>
