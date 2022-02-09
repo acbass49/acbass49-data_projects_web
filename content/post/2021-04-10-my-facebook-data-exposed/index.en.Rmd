@@ -10,7 +10,7 @@ tags:
 - Progamming
 description: ''
 thumbnail: images/fb_icon.webp
-disable_comments: false
+disqusShortname: alexbassc
 ---
 Do you like the title? You can thank all of my click-bait ad consumption for that.
 
