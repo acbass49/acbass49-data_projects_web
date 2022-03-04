@@ -7,7 +7,7 @@ categories: []
 tags:
   - Latter-day Saints
 description: 'The Next Mormons'
-thumbnail: images/favicon1.jpeg
+thumbnail: images/church.jpeg
 ---
 
 ![](https://www.ldstemple.pics/wp-content/uploads/washington-dc-temple-final-sunset-600x600.jpg#center)
@@ -24,11 +24,11 @@ The premise of the book is describing findings from a survey of 1,156 Latter-day
 
 This particular fact wasn't extremely surprising to me - especially the fact that many more millennial women have served missions because of the age change. I think the reason I wanted to point this one out is that I didn't realize that a higher percentage of members in general serve missions nowadays. Keep in mind that the Boomer/Silent generation number includes those who have joined later in life who did not have the opportunity to serve as a young missionary; however, the Boomer/Silent generation may also include those who served later in life which younger Latter-day saints have not had the opportunity to.
 
-##### Fact 2 : There are generational divides on when it is ok to wear garments
+##### Fact 2 : There are generational divides on when it is ok to NOT wear garments
 
 ![](/./about_files/NMS post.002.jpeg#center)
 
-To me, this is interesting because Millennials are less likely than Boomer/Silents to have exceptions for wearing the garments except for "When ill or when there is a medical reason." This makes enough sense as older groups would be more likely to be in situations where they are ill or when there is a medical reason. Another interesting tidbit here is that 1/5 millennials excuse wearing garments when sleeping and on vacation when Boomer/Silents do not which I wasn't necessarily expecting. I was expecting this behavior, but didn't think there would be generational divides.
+To me, this is interesting because Millennials are less likely than Boomer/Silents to have exceptions for wearing the garments except for "When ill or when there is a medical reason." This makes enough sense as older groups would be more likely to be in situations where they are ill or when there is a medical reason where as for younger folks the situation may not have come up yet. Another interesting tidbit here is that 1/5 millennials excuse wearing garments when sleeping and on vacation when Boomer/Silents do not which I wasn't necessarily expecting. I was expecting this behavior, but didn't think there would be generational divides.
 
 ##### Fact 3 : Less than half of Millennial Latter-day Saints hold current temple recommends
 
@@ -40,7 +40,7 @@ There have been portions of my life when I haven't held a temple recommend, but 
 
 ![](/./about_files/NMS post.004.jpeg#center)
 
-While access to data for nation wide trends is much more readily available for things like this (for example, the CDC collects a bunch of data on this if anyone is interested), it is not so much available for small subgroups like Latter-day Saints. This is especially interesting because premarital sexual experience is considered sinful by the LDS church which may discourage members from sharing these things with others. This means that it probably is especially difficult to get a sense of how prevalent these behaviors are among members of the church. For me, this breakdown of premarital sexual experience is not necessarily surprising; however, it is surprising that those who are never married and those who are currently married have nearly the same percentage of people in each group. There is an exception for masturbation which is higher among the Latter-day Saints who have never married.
+While access to data for nation wide trends is much more readily available for sexual habits / activity (for example, the CDC collects a bunch of data on this if anyone is interested), it is not so much available for small subgroups like Latter-day Saints. This is especially interesting because premarital sexual experience is considered sinful by the LDS church which may discourage members from sharing these things with others which means that it probably is especially difficult to get a sense of how prevalent these behaviors are among members of the church. For me, this breakdown of premarital sexual experience is not necessarily surprising; however, it is surprising that those who are never married and those who are currently married have nearly the same percentage of people in each group. There is an exception for masturbation which is higher among the Latter-day Saints who have never married.
 
 Latter-day Saints may be cautious reporting these behaviors since they are against church standards, but it is also an anonymous internet-based survey which would eliminate the interviewer effect and create a more open environment for sharing with candidness.
 
