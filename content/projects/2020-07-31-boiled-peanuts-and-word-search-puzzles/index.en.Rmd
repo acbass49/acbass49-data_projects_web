@@ -2,7 +2,7 @@
 title: Boiled Peanuts and Word Search Puzzles
 author: 'Alex Bass'
 date: '2020-07-31'
-slug: []
+slug: peanuts-and-puzzles
 categories: [Progamming]
 tags:
   - Progamming
@@ -32,7 +32,7 @@ If you enjoyed the post, shoot me a message on social media or share it.
 *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
 var disqus_config = function () {
-  this.page.url = 'https://alexbass.me/projects/2020-07-31-boiled-peanuts-and-word-search-puzzles/';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.url = 'https://alexbass.me/projects/peanuts-and-puzzles/';  // Replace PAGE_URL with your page's canonical URL variable
   this.page.identifier = 'PAGE_dxqd'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
