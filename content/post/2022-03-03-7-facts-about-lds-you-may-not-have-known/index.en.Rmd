@@ -9,19 +9,20 @@ tags:
 description: 'The Next Mormons'
 thumbnail: images/favicon1.jpeg
 ---
-![](/./about_files/church.jpeg#center)
+
+![](https://www.ldstemple.pics/wp-content/uploads/washington-dc-temple-final-sunset-600x600.jpg#center)
 
 ##### Introduction
 
-Recently, I found myself reading a book by Jana Riess entitled [The Next Mormons](https://www.amazon.com/Next-Mormons-Millennials-Changing-Church/dp/0190885203). It challenged some of my thoughts, and I generally found it interesting, so I wanted to share some thoughts here. Feel free to comment at the bottom of the page in the chat box and share your thoughts too (I just figured out how to add those to the bottom of my posts, so try it out!).
+Recently, I found myself reading a book by [Jana Riess](https://janariess.com) entitled [The Next Mormons](https://www.amazon.com/Next-Mormons-Millennials-Changing-Church/dp/0190885203). It challenged some of my thoughts, and I generally found it interesting, so I wanted to share some thoughts here. Feel free to comment at the bottom of the page in the chat box and share your thoughts too (I just figured out how to add those to the bottom of my posts, so try it out!).
 
-The premise of the book is describing findings from a survey of 1,156 Latter-day Saints and 540 former Latter-day Saints fielded September 8 - November 21, 2016 from an online panel. I have shared data before from a more recent survey with Latter-day Saints, but this survey was unique because it was only a sample of Latter-day Saints and the survey questions were focused only on Latter-day Saints' experiences and specifically Millennials (yeah I know... I found my niche truly as I am a survey-analyst, Millennial, Latter-day Saint). It reads very academic and summarizes both quantitative figures in charts and qualitative in-person interviews in the written text. Although the survey took place what is now almost 5 years ago, I find the content relevant and interesting now. So if the only church numbers you hear are from the Church Audit Report around General Conference time, you may be in the same place as I was.
+The premise of the book is describing findings from a survey of 1,156 Latter-day Saints and 540 former Latter-day Saints fielded September 8 - November 21, 2016 from an online panel (more methodology [here](https://thenextmormons.org/methodology/) if interested). I have shared data before from a more recent survey with Latter-day Saints, but this survey was unique because it was only a sample of Latter-day Saints and the survey questions were focused only on Latter-day Saints' experiences and specifically Millennials (yeah I know... I found my niche truly as I am a survey-analyst, Millennial, Latter-day Saint). It reads very academic and summarizes both quantitative figures in charts and qualitative in-person interviews in the written text. Although the survey took place what is now almost 5 years ago, I find the content relevant and interesting now. So if the only church numbers you hear are from the Church Audit Report around General Conference time, you may be in the same place as I was.
 
 ##### Fact 1 : The percent of Latter-day Saints who have served missions has increased
 
 ![](/./about_files/NMS post.001.jpeg#center)
 
-This particular fact wasn't extremely surprising to me - especially the fact that many more millennial women have served missions. I think the reason I wanted to point this one out is that I didn't realize that a higher percentage of members in general serve missions nowadays. Keep in mind that the Boomer/Silent generation number includes those who have joined later in life who did not have the opportunity to serve as a young missionary; however, the Boomer/Silent generation may also include those who served later in life which younger Latter-day saints have not had the opportunity to.
+This particular fact wasn't extremely surprising to me - especially the fact that many more millennial women have served missions because of the age change. I think the reason I wanted to point this one out is that I didn't realize that a higher percentage of members in general serve missions nowadays. Keep in mind that the Boomer/Silent generation number includes those who have joined later in life who did not have the opportunity to serve as a young missionary; however, the Boomer/Silent generation may also include those who served later in life which younger Latter-day saints have not had the opportunity to.
 
 ##### Fact 2 : There are generational divides on when it is ok to wear garments
 
@@ -61,7 +62,9 @@ This was also quite interesting to me. When I served my Latter-day Saint mission
 
 Most of these things were not super interesting to me other than one group. It turns out that those who are less educated are more likely to leave the church. One prominent theory in political science literature is that as a society gets more educated, it will also become less religious and more secular. This trend is clearly seen in Europe, but the US has been interestingly resistant to this trend. And recently researchers are [finding](https://www.wsj.com/articles/theres-no-crisis-of-faith-on-campus-11645714717?st=zkubzj5qwrqf0ti&reflink=desktopwebshare_twitter&fbclid=IwAR0wpySp-wWX73sTW_sGee90_IW30T2TMeMtsimLyzfCXXO2cfbUG53LNHI) that college going Americans aren't necessarily led away from religion. An opposite effect is also found in the Next Mormons Survey where college goers are more likely to stay active.
 
-Thanks for reading! There were many more interesting facts in the book and I only included a small subset of things I found interesting here, so I would encourage you to check it out if you are interested in the changing landscape of the Church of Jesus Christ of Latter-day Saints in America. Please comment below with thoughts 🙂
+There were many more interesting facts in the book and I only included a small subset of things I found interesting here, so I would encourage you to check it out if you are interested in the changing landscape of the Church of Jesus Christ of Latter-day Saints in America. She also just funded a kick starter campaign for funding for another survey focused on [former Mormons and why they leave the church](https://www.kickstarter.com/projects/nmswave2/wave-2-of-the-next-mormons-survey?ref=user_menu) which will also be interesting.
+
+Thanks for reading! Please comment below with thoughts 🙂
 
 <div id="disqus_thread"></div>
 <script>
