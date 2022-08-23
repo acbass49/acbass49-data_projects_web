@@ -48,7 +48,7 @@ Alright now for our questions...
 
 Above, we have simply the raw counts of all school shootings in the last 50 years. It's pretty clear that the rate is increasing. Also, if you [only look at deaths and injuries fig2 at this link](https://nces.ed.gov/programs/coe/indicator/a01), both of the trends -  number of deaths and number of injuries from school shootings - seem to be increasing as well.
 
-To give you a sense of how often these happen: if there [130,000 schools](https://nces.ed.gov/FastFacts/display.asp?id=84) in the US, and just over 250 shooting incidents this last year, your child's school has about a `r round(250/130000*100, 1)`% chance of seeing a shooting which is about 1 in 500. To put this in perspective, the odds of dying in a car crash is 1 in 114 and the odds of dying in a plane crash is 1 in 9,821, so somewhere in between there i guess😂.
+To give you a sense of how often these happen: if there [130,000 schools](https://nces.ed.gov/FastFacts/display.asp?id=84) in the US, and just over 250 shooting incidents this last year, your child's school has about a `r round(250/130000*100, 1)`% chance of seeing a shooting which is about 1 in 500. To put this in perspective, the odds of dying in a car crash is 1 in 114 and the odds of dying in a plane crash is 1 in 9,821 ([according to this random website](https://executiveflyers.com/what-are-the-chances-of-a-plane-crashing/)), so somewhere in between there i guess😂.
 
 Though I won't spend any more time on this question now, [fig 2 in this article](https://usafacts.org/articles/the-latest-government-data-on-school-shootings/) details information about the shooters intent which I find interesting.
 
