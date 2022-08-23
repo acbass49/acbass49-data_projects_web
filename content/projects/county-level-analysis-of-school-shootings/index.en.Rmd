@@ -38,9 +38,7 @@ First, its important to understand that school shootings in this dataset include
 
 This opens up wiggle room because perhaps the incident wasn't very severe (e.g. if there was only brandishing) and perhaps these account for a lot of the dataset. Turns out, [as seen here (comparing fig2 and fig3 in this article)](https://nces.ed.gov/programs/coe/indicator/a01) the majority of incidents result in at least one injury/deceased person.  Also, for every record of school shootings, we have a description of the event which you can browse [here](https://docs.google.com/spreadsheets/d/1oChjbUUAcnvhW-qEMRbb24XoRQx0bVmU0zbFos_ASVA/edit#gid=0) if interested. I found when looking through that most of these cases seem like significant incidents. Besides, even in an incident where there was brandishing (threateningly waving a gun around) and no casualties, it would likely still be a impactful/scary incident for the child and parents. I also believe a similar thing for many accidental occurrences which could also be impactful/scary. For these reasons, I include all these cases in my analysis.
 
-Next, it is worth noting that because there are incidents that were perhaps never reported in some areas. This could lead to some bias especially if one region was significantly less likely to report incidents. However, in my mind, most areas should have a similar negative incentive to not report something like this because *every school with a shooting looks bad for its school*.
-
-One last thing I will mention here, there are a lot of factors that lead to school shootings (like most social problems) - more factors than variables that I consider in my dataset. Perhaps there are variables that I am simply neglecting or where the data is unrealistic or hard to come by. However, I still think it is important to see correlations and trends between many of the variables in this dataset.
+Next, it is worth noting that because there are incidents that were perhaps never reported in some areas. This could lead to some bias especially if one region was significantly less likely to report incidents. However, in my mind, most areas should have a similar negative incentive to not report something like this because every school with a shooting looks bad for its school.
 
 Alright now for our questions...
 
@@ -50,7 +48,7 @@ Alright now for our questions...
 
 Above, we have simply the raw counts of all school shootings in the last 50 years. It's pretty clear that the rate is increasing. Also, if you [only look at deaths and injuries fig2 at this link](https://nces.ed.gov/programs/coe/indicator/a01), both of the trends -  number of deaths and number of injuries from school shootings - seem to be increasing as well.
 
-Give a comparison for how often these actually happen - compared to other events that people know.
+To give you a sense of how often these happen: if there [130,000 schools](https://nces.ed.gov/FastFacts/display.asp?id=84) in the US, and just over 250 shooting incidents this last year, your child's school has about a `r round(250/130000*100, 1)`% chance of seeing a shooting which is about 1 in 500. To put this in perspective, the odds of dying in a car crash is 1 in 114 and the odds of dying in a plane crash is 1 in 9,821, so somewhere in between there i guess😂.
 
 Though I won't spend any more time on this question now, [fig 2 in this article](https://usafacts.org/articles/the-latest-government-data-on-school-shootings/) details information about the shooters intent which I find interesting.
 
@@ -65,15 +63,13 @@ Using my model, I generated predictions for all US counties below where we can s
 <iframe title="More Shootings In More Populated Areas" aria-label="Map" id="datawrapper-chart-Q5sQQ" src="https://datawrapper.dwcdn.net/Q5sQQ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="521"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-Generally, I feel the biggest take-away here is that more populated counties are more likely to have school shootings which makes sense. For example, WY and the Dakotas have a low population and are not predicted to have many, but costal areas such as CA are darker (meaning more predicted school shootings). 
+Generally, I feel the biggest take-away from the map above is that more populated counties are more likely to have school shootings which makes sense. For example, WY and the Dakotas have a low population and are not predicted to have many, but coastal areas such as CA are darker (meaning more predicted school shootings). 
 
-But, population isn't the only factor, there does seem to be some hot spots, take Michigan and South Carolina for example. Those two states seems to be darker in more areas than just their cities. There are obviously other factors that affect school shooting which we will talk a little more about in the next section.
+But, population isn't the only factor, there does seem to be some hot spots, take Michigan and South Carolina for example. The map shows those two states seem darker in more areas than just their cities. darker areas in less populated area are due to other factors that affect school shooting which we will talk a little more about in the next section.
 
 ##### Do factors like living in a rich vs. poor area, predominantly white area, or other demographic factors change the likelihood of a school shooting?
 
 ![](/./about_files/school_4.png#center)
-
-*Methodology note: For those interested, I estimated the model using Bayesian techniques (MCMC-style sampling in estimating the posterior distribution of school shootings) I tested several models, but saw the best performance (best WAIC score) using a state-level random-intercepts negative-binomial regression. More info and code I used in github.*
 
 Here is a table of selected features in my model (some are not included here for brevity's sake). There are three easy ways to interpret this table: First, is it positive of negative? Positive numbers increase the number of school shootings while negative numbers decrease. Next, how big is the Mean relative to the others? With bigger numbers, the model estimates it has a bigger effect on school shootings and vice versa for smaller numbers. And, thirdly, Is the feature starred? We are more confident in the estimates of the starred features and not as confident in those that are not.
 
@@ -83,6 +79,8 @@ Another interesting tidbit is what doesn't seem to matter in the number of schoo
 
 One last think I'll mention is that counties with more people are more likely to see school shootings, but these aren't necessarily correlated to how urban/rural an area is.
 
+*Methodology note: For those interested, I estimated the model using Bayesian techniques (MCMC-style sampling in estimating the posterior distribution of school shootings) I tested several models, but saw the best performance (best WAIC score) using a state-level random-intercepts negative-binomial regression. More info and code I used in github.*
+
 ##### What effect, if any, do various gun laws (already in-place) have on school shootings?
 
 ![](/./about_files/school_3.png#center)
@@ -91,9 +89,9 @@ From looking at the raw counts, while noisy, we can see that generally counties 
 
 ![](/./about_files/school_5.png#center)
 
-**However, when controlling for other variables in our model, we are not confident that these laws have a positive effect on curbing gun violence in schools.** For universal background checks, our model actually estimates a slight positive relationship, which could suggest that gun permit laws are more effective than background check laws at curbing violence in schools. This is also seen in the [fivethirtyeight score](https://fivethirtyeight.com/features/gun-laws-stop-at-state-lines-but-guns-dont/) - where there is no conclusive relationship that there is no conclusive relationship between gunlaw strictness and state scores.
+**However, when controlling for other variables in our model, we are not confident that these laws have a positive effect on curbing gun violence in schools.** For universal background checks, our model actually estimates a slight positive relationship, which could suggest that gun permit laws are more effective than background check laws at curbing violence in schools. This is also seen in the [fivethirtyeight score](https://fivethirtyeight.com/features/gun-laws-stop-at-state-lines-but-guns-dont/) - where there is no conclusive relationship between gun law strictness and state scores.
 
-*Methodology note: Because of my model specification, I was only able to include a snapshot in time of state gun laws, so I included what the universal and gun permit laws were as of 2016; but, this data includes incidents from the past 50 years. I used a snapshot of gun laws with the assumption that states in the past 50 years with stricter laws generally continued to have stricter laws through the time period and vice versa. This model and post is only to get a general overview and not a deep dive analysis on the effectiveness of gun laws, but perhaps I will do this in the future.*
+*Methodology note: Because of my model specification, I was only able to include a snapshot in time of state gun laws, so I included what the universal and gun permit laws were as of 2016; but, this data includes incidents from the past 50 years. I used a snapshot of gun laws with the assumption that states in the past 50 years with stricter laws generally continued to have stricter laws through the time period and vice versa. The object of this model and post is only to get a general overview and not a deep dive analysis on the effectiveness of gun laws, but perhaps I will do this in the future.*
 
 ##### Conclusion
 
