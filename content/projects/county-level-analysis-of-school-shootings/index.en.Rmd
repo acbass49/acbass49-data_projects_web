@@ -65,7 +65,7 @@ Using my model, I generated predictions for all US counties below where we can s
 
 Generally, I feel the biggest take-away from the map above is that more populated counties are more likely to have school shootings which makes sense. For example, WY and the Dakotas have a low population and are not predicted to have many, but coastal areas such as CA are darker (meaning more predicted school shootings). 
 
-But, population isn't the only factor, there does seem to be some hot spots, take Michigan and South Carolina for example. The map shows those two states seem darker in more areas than just their cities. darker areas in less populated area are due to other factors that affect school shooting which we will talk a little more about in the next section.
+But, population isn't the only factor, there does seem to be some hot spots, take Michigan and South Carolina for example. The map shows those two states seem darker in more areas than just their cities. These darker spots in less populated area are due to other factors that affect school shooting which we will talk a little more about in the next section.
 
 ##### Do factors like living in a rich vs. poor area, predominantly white area, or other demographic factors change the likelihood of a school shooting?
 
