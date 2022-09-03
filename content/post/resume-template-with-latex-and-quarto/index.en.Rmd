@@ -42,7 +42,7 @@ How did it turn out? Do you like my resume?
 
 Overall, I am happy how it turned out and happy to save some time. Feel free to clone/fork [the repository](https://github.com/acbass49/CV_Quarto) where I have my resume for your personal use.
 
-If you would like to clone the repo, copy the code below in the terminal and update the files to have your information!
+If you would like to clone the repo, copy the code below in the terminal. Then just update the files to have your resume information!
 
 ```{sh, eval=FALSE}
 git clone https://github.com/acbass49/CV_Quarto.git
