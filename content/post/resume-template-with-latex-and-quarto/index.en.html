@@ -1,0 +1,68 @@
+---
+title: Simple Resume Template with Quarto and LaTeX
+author: R package build
+date: '2022-09-03'
+slug: []
+categories: []
+tags: []
+description: 'Simple Resume Template'
+thumbnail: images/favicon1.jpeg
+---
+
+<script src="{{< blogdown/postref >}}index.en_files/header-attrs/header-attrs.js"></script>
+
+
+<p><img src="/./about_files/resume_2.png#center" /></p>
+<div id="introduction" class="section level4">
+<h4>Introduction</h4>
+<p>I made my first real resume about 7ish years ago. I used the <a href="https://careers.byu.edu/students/hiring-resources/resumes/resume-templates">templates they have at BYU</a>, my alma mater. They are simple, clean, and I love them to this day!</p>
+<p>However, I wanted a way to help streamline my resume. It was getting tedious fidgeting around in the original word doc, exporting as a pdf, and then updating in all the other places I kept it. Additionally, I wanted more control over my resume than Microsoft Word was giving me and a more programmatic approach. All of these thoughts led me to Posit’s relatively new <a href="https://quarto.org/">Quarto</a>. Quarto is a flexible platform that can generate scientific reports and publish in a variety of formats (you can actually make websites with it too). So, I decided to give it a spin.</p>
+</div>
+<div id="implementation" class="section level4">
+<h4>Implementation</h4>
+<p>I knew that it would likely be more work up front to create the bare bones structure, but less work on the backend when I would just add a thing or two. And, my hope was that other people interested in this format could use it as well in a few minutes without all the upfront work.</p>
+<p>You can render the document side-by-side as you are writing it up which I found very helpful in whatever program you use to edit it.</p>
+<p><img src="/./about_files/resume_3.png#center" /></p>
+<p>You can also render the pdf from the .qmd from the code below.</p>
+<pre class="sh"><code>#In the terminal where the .qmd file is kept, run below to generate pdf:
+quarto render resume_alex.qmd --to pdf</code></pre>
+<p>Turned out because I was most interested in the pdf export, I ended up using mostly LaTeX and only some plain Markdown in my Quarto document. Though I haven’t experimented with exporting to html, I noticed that I wasn’t able to export to word when using custom LaTeX. It can only be rendered in pdf form which is fine for my interests. But, for those interested in a Microsoft Word or html output, my template won’t work for you.</p>
+<p>Finished product below…</p>
+<p><img src="/./about_files/resume_1.png#center" /></p>
+<p>How did it turn out? Do you like my resume?</p>
+<p>Overall, I am happy how it turned out and happy to save some time. Feel free to clone/fork <a href="https://github.com/acbass49/CV_Quarto">the repository</a> where I have my resume for your personal use.</p>
+<p>If you would like to clone the repo, copy the code below in the terminal and update the files to have your information!</p>
+<pre class="sh"><code>git clone https://github.com/acbass49/CV_Quarto.git</code></pre>
+</div>
+<div id="tips-if-you-try-it" class="section level4">
+<h4>Tips if you try it</h4>
+<ul>
+<li>I put comments throughout the .qmd document outlining where all the parts of the resume are, so should be able to update text and copy and paste sections as necessary.</li>
+<li>Like I mentioned above, most of this is built with LaTeX, so if you want to further customize, you will want to be googling how to do something in LaTeX. The only part that is in Markdown are the bulleted lists.</li>
+<li>I would recommend using RStudio as the tool for working with Quarto (same company built both), but as I use VScode a lot these days, I figured I would give Quarto’s VScode plug-in a try. Overall, I really liked the plug-in. Notably, you can render the .qmd document (as docx, pdf, html) in the window next to you which was very helpful. I believe this is the same for RStudio as well.</li>
+</ul>
+<p>Feel free to comment or ask questions below!</p>
+<div id="disqus_thread">
+
+</div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+
+var disqus_config = function () {
+  this.page.url = 'https://alexbass.me/post/resume-template-with-latex-and-quarto/';  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = 'PAGE_IDENresume'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://alexbassc.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>
+Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+</div>
