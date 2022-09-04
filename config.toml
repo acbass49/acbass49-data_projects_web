@@ -2,7 +2,7 @@ baseurl = "/"
 title = "Alex Bass"
 
 theme = "hugo-coder-portfolio"
-googleAnalytics = "UA-194046200-1"
+# googleAnalytics = "UA-194046200-1"
 
 DefaultContentLanguage = "en"
 
